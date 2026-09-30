@@ -1,0 +1,5 @@
+Python is a simple and powerful programming language. Python is used for data science and web development.
+
+This project is a Word Counter and Text Analyzer. The project counts words, characters, sentences, paragraphs and unique words.
+
+Python makes text analysis easy and useful.
